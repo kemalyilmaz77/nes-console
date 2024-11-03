@@ -1,0 +1,30 @@
+{
+  "name": "nes-console",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "server": "node neserver.cjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "nes-vue": "^1.8.2",
+    "qrcode.vue": "^3.6.0",
+    "socket.io-client": "^4.8.1",
+    "vue": "^3.5.12",
+    "vue-spinner": "^1.0.4",
+    "vue3-carousel-3d": "^1.0.4",
+    "vuetify": "^3.7.3",
+    "crypto": "^1.0.1",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1",
+    "uuid": "^11.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "sass": "^1.80.6",
+    "vite": "^5.4.10"
+  }
+}
