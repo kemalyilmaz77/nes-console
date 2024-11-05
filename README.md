@@ -7,6 +7,10 @@ Bu proje, mobil cihazınızı bir gamepad olarak kullanmanıza olanak tanır ve 
 - Node.js yüklü olmalı.
 - Gamepad projesi cihazda yüklü olmalı
 
+[Example](https://kemalyilmaz77.github.io/nes-console/)
+
+
+
 ## Kurulum
 
 Proje dosyalarını klonladıktan sonra gerekli bağımlılıkları yüklemek için terminalden aşağıdaki komutu çalıştırın:
